@@ -1,5 +1,18 @@
 html, body {
 	height: 100%;
 	width: 100%;
+}
 
+.rapper {
+	height: 100%;
+	width: 70%;
+	margin: 0 auto;
+}
+.bourder {
+	height: 30%;
+	width: 70%;
+
+}
+div {
+	border: 2px solid;
 }
